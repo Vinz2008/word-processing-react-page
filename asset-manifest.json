@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/word-processing-react-page/static/css/main.dc68dd46.css",
+    "main.js": "/word-processing-react-page/static/js/main.94c1246e.js",
+    "static/js/787.cfc796ef.chunk.js": "/word-processing-react-page/static/js/787.cfc796ef.chunk.js",
+    "index.html": "/word-processing-react-page/index.html",
+    "main.dc68dd46.css.map": "/word-processing-react-page/static/css/main.dc68dd46.css.map",
+    "main.94c1246e.js.map": "/word-processing-react-page/static/js/main.94c1246e.js.map",
+    "787.cfc796ef.chunk.js.map": "/word-processing-react-page/static/js/787.cfc796ef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc68dd46.css",
+    "static/js/main.94c1246e.js"
+  ]
+}
